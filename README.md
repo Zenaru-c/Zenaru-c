@@ -13,3 +13,5 @@ An aspiring developer in tech space.
 - Bash
 - SQLite
 
+## :octocat: Stats
+[![Zenaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenaru-c)](https://github.com/anuraghazra/github-readme-stats)
