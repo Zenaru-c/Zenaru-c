@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello 👋, I'm Zenaru
+An aspiring developer in tech space.
 
-<!--
-**Zenaru-c/Zenaru-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Currently polishing my previous projects.
+- 🧠 Learning: PHP, Javascript, Algorithms, OOP.
+- 💡 Goals: Land my first dev job, Contribute to a project, Keep learning and improving upon the foundations of programming languages.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- HTML
+- CSS
+- Linux
+- Bash
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
